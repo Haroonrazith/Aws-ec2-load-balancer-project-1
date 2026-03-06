@@ -1,4 +1,4 @@
-# Aws-ec2-load-balancer-project-1
+# Aws-ec2-load-balancer-project
 AWS EC2 + Application Load Balancer project
 
 This project demonstrates how to deploy multiple EC2 web servers
