@@ -1,3 +1,4 @@
+Aws-ec2-load-balancer-project
 # AWS EC2 Load Balancer Project
 
 This project demonstrates how to deploy multiple EC2 web servers
@@ -30,4 +31,5 @@ User → Load Balancer → EC2 Instances
 Refreshing the load balancer DNS alternates between:
 
 Server 1  
+
 Server 2
